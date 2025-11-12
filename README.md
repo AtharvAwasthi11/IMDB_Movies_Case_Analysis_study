@@ -1,0 +1,2 @@
+# IMDB_Movies_Case_Analysis_study
+SQL Query Suite for the IMDb Movie Case Study. It leverages Advanced Window Functions and CTEs to execute deep data interrogation on the film database. The output is strategic, actionable intelligence on optimal casting, genre, and release timing, engineered to maximize box office returns and secure a competitive advantage. 🎬🏆
